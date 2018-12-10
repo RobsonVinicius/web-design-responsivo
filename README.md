@@ -2,4 +2,6 @@
 
 
  Repositório dedicado a prática do Design Responsivo, o projeto consiste em um portal de notícias adaptado para diferentes resoluções
+ 
+ 
 
